@@ -1,1 +1,1 @@
-<?php include_once("Sprint-Reports/Sprint1Report.html"); ?>
+<?php include_once("Sprint-Reports/directory.html"); ?>
